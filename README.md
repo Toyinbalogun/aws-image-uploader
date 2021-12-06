@@ -43,9 +43,8 @@ Bootstrapping our application together with springboot- our backend and react fr
 <p align="center">
     <img src="./Images/wireframe.png" width="400" height="500">
 </p>
+
 ## Demo
-
-
 
 <br>
 
