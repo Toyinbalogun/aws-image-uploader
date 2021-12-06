@@ -3,8 +3,6 @@
 <br />
 <p align="center">
 
-<!-- <img src="https://avatars2.githubusercontent.com/u/59339564?v=4"  alt="profile picture" width="150" height="150"> -->
-
 <h2 align="center">AWS IMAGE UPLOADER</h2>
 
 <h3 align="center">
@@ -42,8 +40,9 @@ So that I have quick access to a face book of user profiles.
 
 Bootstrapping our application together with springboot- our backend and react frontend will communicate via API calls with user data saving to our postgreSQL database and profile image leveraging AWS S3 API storing user profile image.
 
-<img src="./Images/wireframe.png" width="400" height="500">
-
+<p align="center">
+    <img src="./Images/wireframe.png" width="400" height="500">
+</p>
 ## Demo
 
 
