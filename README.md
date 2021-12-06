@@ -79,4 +79,3 @@ Collaboration is welcomed! For pull requests and changes, please open an issue f
 ## License
 
 Distributed under the MIT License.
-```
