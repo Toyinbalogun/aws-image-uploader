@@ -7,7 +7,7 @@
 <h2 align="center">AWS IMAGE UPLOADER</h2>
 
 <h3 align="center">
- AWS S3 Services, Java, Node.js, React, Spring, SpringBoot, PostgreSQL
+ Tools: AWS S3 Services, Java, Node.js, React, Spring, SpringBoot, PostgreSQL
 
 </h3>
 <br />
