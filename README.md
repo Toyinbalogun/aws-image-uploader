@@ -71,6 +71,10 @@ So that I have quick access to a face book of user profiles.
  ```
 
  5. React will autpmatically open a http://localhost:3000/ on browser.
+ 6. Start your backend server
+ ```
+ java -jar xxx.jar
+ ```
 
 ## Contributing
  Collaboration is welcomed! For pull requests and changes, please open an issue first to discuss what changes you would like to make. 
