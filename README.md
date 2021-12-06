@@ -80,4 +80,4 @@ So that I have quick access to a face book of user profiles.
  Collaboration is welcomed! For pull requests and changes, please open an issue first to discuss what changes you would like to make. 
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
