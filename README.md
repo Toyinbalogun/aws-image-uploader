@@ -59,19 +59,19 @@ So that I have quick access to a face book of user profiles.
   PostgreSQL
 
 ### Installing and running
-  1. Clone the repo.
-  2. Cd to the repo directory.
-  3. Install npm packages from package.json folder.
+  1. clone the repo.
+  2. cd to the repo directory.
+  3. install npm packages from package.json folder.
  ```
  npm install 
 ```  
-  4. Run the app in command-line.
+  4. run the app in command-line.
  ```
  npm start
  ```
 
- 5. React will autpmatically open a http://localhost:3000/ on browser.
- 6. Start your backend server
+ 5. react will autpmatically open a http://localhost:3000/ on browser.
+ 6. start your spring backend server
  ```
  java -jar xxx.jar
  ```
