@@ -18,7 +18,6 @@
 
 - [Project Description](#project-description)
 - [User story](#user-story)
-- [App URL](#app-url)
 - [Wireframe](#wireframe)
 - [Demo](#demo)
 - [Installation](#installation)
@@ -38,9 +37,6 @@ I want to be able to upload profile images for specific user.
 So that I have quick access to a face book of user profiles.
 ```
 
-## App URL
-
-Link to website: {in the works...}
 
 ## Wireframe
 
