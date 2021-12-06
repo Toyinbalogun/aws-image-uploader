@@ -60,11 +60,11 @@ node.js
 2. cd to the repo directory.
 3. start your spring backend server
 ```
- java -jar xxx.jar
+java -jar xxx.jar
 ```
 4. install npm packages from package.json folder.
 ```
-    npm install
+npm install
 ```
 5. run the app in command-line.
 ```
