@@ -50,7 +50,7 @@ Bootstrapping our application together with springboot- our backend and react fr
 
 ## Demo
 
-<!-- <img src="http://g.recordit.co/7lhiyLWmwI.gif"  width="900" height="500"> -->
+
 
 <br>
 
@@ -65,9 +65,9 @@ node.js
 
 1. clone the repo.
 2. cd to the repo directory.
-3. start your spring backend server
+3. start your spring backend server by cd in target directory and runninng 'jar' package.
 ```
-java -jar xxx.jar
+java -jar .\aws-image-uploader-0.0.1-SNAPSHOT.jar
 ```
 4. install npm packages from package.json folder.
 ```
