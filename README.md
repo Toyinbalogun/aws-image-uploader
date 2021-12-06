@@ -19,6 +19,8 @@
 - [Project Description](#project-description)
 - [User story](#user-story)
 - [App URL](#app-url)
+- [Wireframe](#wireframe)
+- [Flowchart/Process](#flowchart/process)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -40,6 +42,10 @@ So that I have quick access to a face book of user profiles.
 ## App URL
 
 Link to website: {in the works...}
+
+## Wireframe
+
+## Flowchart/Process
 
 ## Demo
 
