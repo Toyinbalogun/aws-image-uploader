@@ -20,7 +20,6 @@
 - [User story](#user-story)
 - [App URL](#app-url)
 - [Wireframe](#wireframe)
-- [Flowchart/Process](#flowchart/process)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -46,10 +45,8 @@ Link to website: {in the works...}
 ## Wireframe
 
 Bootstrapping our application together with springboot- our backend and react frontend will communicate via API calls with user data saving to our postgreSQL database and profile image leveraging AWS S3 API storing user profile image.
- 
-<img src="./Images/wireframe.png"  width="500" height="500">
 
-## Flowchart/Process
+<img src="./Images/wireframe.png"  width="500" height="500">
 
 ## Demo
 
