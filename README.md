@@ -45,6 +45,8 @@ Link to website: {in the works...}
 
 ## Wireframe
 
+<img src="./Images/wireframe.png"  width="900" height="500">
+
 ## Flowchart/Process
 
 ## Demo
