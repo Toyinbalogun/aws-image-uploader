@@ -4,7 +4,7 @@
 
 <!-- <img src="https://avatars2.githubusercontent.com/u/59339564?v=4"  alt="profile picture" width="150" height="150"> -->
 
-<h2 align="center">React Google Book Search</h2>
+<h2 align="center">AWS IMAGE UPLOADER</h2>
 
 <h3 align="center">
  AWS S3 Services, Java, Node.js, React, Spring, SpringBoot, PostgreSQL
@@ -20,7 +20,6 @@
 * [App URL](#app-url)
 * [Demo](#demo)
 * [Installation](#installation)
-* [Badges](#badges)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -35,7 +34,7 @@ A user profile application to upload images from a frontend app built using reac
 ```
 As a user, 
 I want to be able to search, add and save user profiles to database.
-I want to be able to upload images for specific user.
+I want to be able to upload profile images for specific user.
 So that I have quick access to a face book of user profiles.
 ```
 
