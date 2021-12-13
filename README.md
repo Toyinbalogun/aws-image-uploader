@@ -45,7 +45,9 @@ Bootstrapping our application together with springboot- our backend and react fr
 </p>
 
 ## Demo
-
+<p align="center">
+    <img src="./Images/aws.gif">
+</p>
 <br>
 
 ## Installing and running the code on computer
