@@ -26,5 +26,3 @@ public class AmazonConfig {
     }
 }
 
-//AWSAccessKeyId=AKIAQKHTAZFSGPYKZMEN
-//AWSSecretKey=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
